@@ -22,7 +22,7 @@
  */
 
 metadata {
-	definition(name: "Ikea Powerbrick - 3 outlets", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.switch", mnmn: "SmartThings", vid: "generic-switch") {
+	definition(name: "Lidl Powerbrick - 3 outlets", namespace: "smartthings", author: "SmartThings", ocfDeviceType: "oic.d.switch", mnmn: "SmartThings", vid: "generic-switch") {
 		capability "Actuator"
 		capability "Configuration"
 		capability "Refresh"
